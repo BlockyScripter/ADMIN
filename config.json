@@ -1,9 +1,6 @@
-
-
-
 {
-	"ip":"MOONSMP123345.aternos.me",
+	"ip": "MOONSMP123345.aternos.me",
 	"port": "15259",
 	"name": "ADMIN",
-	"auto-night-skip":"false"
+	"auto-night-skip": "false"
 }
